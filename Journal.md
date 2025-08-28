@@ -15,6 +15,7 @@ Moreover, i also researched what parts i would need. they include:
 1x 220Ω pull-up resistor 
 Jumper wires/connections
 Ground connections
+1x buzzer
 <img width="1536" height="1024" alt="Schematics" src="https://github.com/user-attachments/assets/76c9726b-646c-45ed-a5ef-a00a47c91926" />
 
 
