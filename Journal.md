@@ -106,10 +106,6 @@ That was a productive first day on the project. The research phase actually brou
 
 Most satisfying was actually having the 3D case design come into being - it genuinely looks like something that could be a prop on the show! The technical hurdle at this point is making certain all the electronics work as planned and will fit within the case.
 
-**Confidence Assessment:**
-- **Schematic design:** 70% certain it'll work as designed
-- **Component selection:** 85% certain these are the right parts
-- **Case design:** 90% confident that it will print and come together correctly
-- **Overall project success:** 75% confident that main functionality will be attained
 
-Any uncertainty that remains is typical of any new project and should be solved by way of experiential verification and iteration.
+
+
